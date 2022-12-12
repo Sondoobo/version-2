@@ -11,5 +11,8 @@
 가던 새 가던 새 본다 믈 아래 가던 새 본다
 잉무든 장글란 가지고 믈 아래 가던 새 본다
 
+verson.2
+
+
 
 이 Repository를 fork한 후 pair와 함께 Simple Git Workflow를 연습하세요.
